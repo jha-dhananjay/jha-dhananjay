@@ -1,6 +1,6 @@
 # Hi, I'm Dhananjay Jha 👋
 
-**Software Engineer | Backend & Blockchain** — 3 years building scalable backend systems and production smart contracts for fintech and DeFi.
+**Software Engineer | Backend & Blockchain** — 3 years building resilient backend systems and production smart contracts for FinTech, DeFi, and Web3 fitness platforms---multi-chain DEX aggregators, upgradeable staking protocols, and blockchain-integrated fitness reward ecosystems.
 
 ---
 
