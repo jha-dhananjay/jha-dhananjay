@@ -6,7 +6,7 @@
 
 ### What I've Built
 
-🔗 **Multi-Chain DEX Aggregator** — Modular backend (Strategy + Registry architecture) routing swaps through 6 DEX protocols across 10 chains — $2.8M+ volume, 99.9% uptime
+🔗 **Multi-Chain DEX Aggregator** — Modular backend routing swaps through 6 DEX protocols across 10 chains — $2.8M+ volume, 99.9% uptime
 
 💰 **DeFi Staking Platform** — Upgradeable staking contracts (Transparent Proxy) with Synthetix-style O(1) rewards and $1M+ peak TVL
 
