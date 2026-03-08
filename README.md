@@ -18,11 +18,6 @@
 
 ### Featured Repos
 
-#### [Production Backend Patterns](https://github.com/jha-dhananjay/production-backend-patterns)
-Patterns from a live DEX aggregator: pluggable adapter architecture, parallel quoting with per-adapter timeouts, RPC failover, event processing pipeline with 4 background workers.
-
-**Stack:** Node.js, TypeScript, MongoDB, ethers.js
-
 #### [DeFi Smart Contracts](https://github.com/jha-dhananjay/defi-smart-contract-patterns)
 Mainnet-deployed contracts: upgradeable staking with proxy pattern, V2/V3 DEX aggregators, EIP-712 signature verification, StakingPoolFactory with 80% gas savings via minimal proxy.
 
